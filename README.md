@@ -2,7 +2,7 @@
 Course Project #3 Submission
 
 This repo incudes 4 files:
-1. TidyDataforc3.txt
+1. TidyDatac3.txt
 2. run_analysis.R
 3. codebook.md
 4. readme.md
